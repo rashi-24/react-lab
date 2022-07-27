@@ -1,0 +1,22 @@
+body {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.display-box {
+    color: blue;
+    border: 2px solid black;
+    width: 60%;
+    margin-left: 20%;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+span {
+    margin-right: 30px;
+}
